@@ -32,7 +32,7 @@ public class JavaListHR {
 			}
 		}
 		
-		for(Integer i : list) {
+		for(int i : list) {
 			System.out.print(i + " ");
 		}
 	}
