@@ -1,7 +1,7 @@
 /**
  * 
  */
-package HackerRankMisc;
+package HackerRankMisc.Java;
 
 import java.util.*;
 

@@ -1,6 +1,7 @@
-package HackerRankMisc;
-
-
+/**
+ * 
+ */
+package HackerRankMisc.moodys;
 
 import java.math.BigInteger;
 import java.util.Scanner;

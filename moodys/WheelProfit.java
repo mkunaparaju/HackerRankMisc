@@ -1,6 +1,7 @@
-package HackerRankMisc;
-
-
+/**
+ * 
+ */
+package HackerRankMisc.moodys;
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -19,15 +20,14 @@ public class WheelProfit {
 	        int x = in.nextInt();
 	        int m = in.nextInt();
 	        float profit = 0; 
+	        
 	        for(int a0 = 0; a0 < n; a0++){
 	            int w = in.nextInt();
 	            int p = in.nextInt();
 	            
 	            float singleProfit = x - w;
 	            float singleProbProfit = singleProfit * p /100;
-	            profit = profit + singleProbProfit;
-
-	            
+	            profit = profit + singleProbProfit;            
 	        }
 	        
 	        profit = profit * m;

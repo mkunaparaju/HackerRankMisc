@@ -1,4 +1,4 @@
-package HackerRankMisc;
+package HackerRankMisc.Java;
 
 import java.io.*;
 import java.util.*;

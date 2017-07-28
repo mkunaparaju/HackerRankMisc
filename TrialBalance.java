@@ -1,7 +1,6 @@
-/**
- * 
- */
-package Moodys;
+package HackerRankMisc;
+
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -13,7 +12,7 @@ import java.util.regex.*;
  */
 public class TrialBalance {
 	 static int[] solve(int n, int m, int[] d, int[] c) {
-	        // Complete this function
+	        return new int[0];
 	    }
 
 	    public static void main(String[] args) {
