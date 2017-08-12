@@ -23,6 +23,7 @@ public class JavaPriorityHR {
              int id = in.nextInt();       
              Student s = new Student(id, name, cgpa);
              pq.add(s);
+//             pq.po`
              //System.out.println(pq.size());
          }
          if(event.equalsIgnoreCase("served")) {
